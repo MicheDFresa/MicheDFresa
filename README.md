@@ -1,25 +1,40 @@
-## Hi there 👋
+## Hi, bienvenidos a mi perfil !!!👋 c:
 
-<!--
-**MicheDFresa/MicheDFresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Algunas cosas sobre mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabajo en un taller, por lo que se de algunas maquinas industriales, y me encanta soldar
+- 🌱 Estoy aprendiendo y descubriendo muchas cosas del mundo de la programacion,
+  asi que los consejos y tips me vendrian muy bien c;🤔
+- Miembro del SIAFI 
+- 📫 Mi Email: ramirezbarraganangel13@gmail.com
+- 😄 Pronouns: He / She 😋🤍
+- ⚡ Adicto a Brawl Stars jsajsksk
 
-<p align="center" style="display: flex; justify-content: center;">
-    <img src="https://media4.giphy.com/media/zX5Lf9WcW6ojm/giphy.gif" width="5%" style="margin: 0;" />
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&duration=2000&pause=500&color=E66FFF&center=true&vCenter=true&width=435&lines=%F0%9F%A6%86Deivi's+here!+%F0%9F%A6%86;%F0%9F%A6%8AWelcome+to+my+profile!+%3AD%F0%9F%A6%8A"
-            alt="Typing SVG" style="margin: 0;" />
-    </a>
-    <img src="https://media1.giphy.com/media/NKcHjb5vYSE3E0H4ug/giphy.gif" width="5%" style="margin: 0;" />
-</p>
+> La esperanza es la luz que nos saca de las tinieblas. - Superman.
+
+## <p align="center"> Contact me.  :envelope: </p>
+
+<div align="center">
+<a href="https://www.facebook.com/Dont.fck.me/">
+  <img src="img/facebook.png" width="8%" alt="Facebook">
+</a>
+
+<a href="https://www.instagram.com/mr.cuac/">
+  <img src="img/instagram.png" width="8%" alt="Instagram">
+</a>
+
+<a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">
+  <img src="img/youtube.png" width="8%" alt="Youtube">
+</a>
+
+<a href="https://twitter.com/MrMiaaau">
+  <img src="img/twitter.png" width="8%" alt="Twitter / X">
+</a>
+
+<a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">
+  <img src="img/linkedin.png" width="8%" alt="Linkedin">
+</a>
+</div>
+
+## 	<p align="center"> Thanks for passing by... :flags: </p>
