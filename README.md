@@ -16,25 +16,15 @@ Algunas cosas sobre mi:
 ## <p align="center"> Contact me.  :envelope: </p>
 
 <div align="center">
-<a href="https://www.facebook.com/Dont.fck.me/">
+<a href="https://www.facebook.com/angel.ramirezbarragan.3?mibextid=ZbWKwL">
   <img src="img/facebook.png" width="8%" alt="Facebook">
 </a>
 
-<a href="https://www.instagram.com/mr.cuac/">
+<a href="https://www.instagram.com/angel_allen2112">
   <img src="img/instagram.png" width="8%" alt="Instagram">
 </a>
 
-<a href="https://www.youtube.com/channel/UCmRRrVEQ0wpG1uFUz-sRrLA">
-  <img src="img/youtube.png" width="8%" alt="Youtube">
-</a>
 
-<a href="https://twitter.com/MrMiaaau">
-  <img src="img/twitter.png" width="8%" alt="Twitter / X">
-</a>
-
-<a href="https://www.linkedin.com/in/david-elias-gonz%C3%A1lez-garc%C3%ADa-569a9a207/">
-  <img src="img/linkedin.png" width="8%" alt="Linkedin">
-</a>
 </div>
 
 ## 	<p align="center"> Thanks for passing by... :flags: </p>
