@@ -11,7 +11,7 @@ Algunas cosas sobre mi:
 - 😄 Pronouns: He / She 😋🤍
 - ⚡ Adicto a Brawl Stars jsajsksk
 
-> La esperanza es la luz que nos saca de las tinieblas. - Superman.
+> Legends never die. - Sara Lance.
 
 ## <p align="center"> Contact me.  :envelope: </p>
 
