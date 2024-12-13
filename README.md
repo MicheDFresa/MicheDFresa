@@ -27,4 +27,6 @@ Algunas cosas sobre mi:
 
 </div>
 
+# <p align="center"> Pagina en construccion... 🚧👷🏽‍♀ </p>
+
 ## 	<p align="center"> Thanks for passing by... :flags: </p>
