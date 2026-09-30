@@ -6,7 +6,6 @@ Algunas cosas sobre mi:
 - 🔭 Trabajo en un taller, por lo que se de algunas maquinas industriales, y me encanta soldar
 - 🌱 Estoy aprendiendo y descubriendo muchas cosas del mundo de la programacion,
   asi que los consejos y tips me vendrian muy bien c;🤔
-- Miembro del SIAFI 
 - 📫 Mi Email: ramirezbarraganangel13@gmail.com
 - 😄 Pronouns: He / She 😋🤍
 - ⚡ Adicto a Brawl Stars jsajsksk
